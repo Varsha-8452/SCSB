@@ -1,0 +1,19 @@
+* I_F.SCSB.NATURE.TYPE.BASIC1 Created 09 MAY 23 at 04:39PM by varshar/VARSHA33
+*      PREFIX[SM]
+                    EQU SM.RATE.TYPE TO 1,   ScsbNatureTypeBasic1_RateType TO 1,
+              SM.RATE.VALUE.PERIODIC TO 2,   ScsbNatureTypeBasic1_RateValuePeriodic TO 2,
+                 SM.RATE.VALUE.BASIC TO 3,   ScsbNatureTypeBasic1_RateValueBasic TO 3,
+                 SM.RATE.VALUE.FIXED TO 4,   ScsbNatureTypeBasic1_RateValueFixed TO 4,
+              SM.ALLOW.BROKER.UPDATE TO 5,   ScsbNatureTypeBasic1_AllowBrokerUpdate TO 5,
+                SM.ALLOW.FIDU.UPDATE TO 6,   ScsbNatureTypeBasic1_AllowFiduUpdate TO 6,
+                 SM.PRODUCTS.ALLOWED TO 7,   ScsbNatureTypeBasic1_ProductsAllowed TO 7,
+                         SM.CURRENCY TO 8,   ScsbNatureTypeBasic1_Currency TO 8,
+                    SM.RECORD.STATUS TO 9,   ScsbNatureTypeBasic1_RecordStatus TO 9,
+                          SM.CURR.NO TO 10,  ScsbNatureTypeBasic1_CurrNo TO 10,
+                         SM.INPUTTER TO 11,  ScsbNatureTypeBasic1_Inputter TO 11,
+                        SM.DATE.TIME TO 12,  ScsbNatureTypeBasic1_DateTime TO 12,
+                       SM.AUTHORISER TO 13,  ScsbNatureTypeBasic1_Authoriser TO 13,
+                          SM.CO.CODE TO 14,  ScsbNatureTypeBasic1_CoCode TO 14,
+                        SM.DEPT.CODE TO 15,  ScsbNatureTypeBasic1_DeptCode TO 15,
+                     SM.AUDITOR.CODE TO 16,  ScsbNatureTypeBasic1_AuditorCode TO 16,
+                  SM.AUDIT.DATE.TIME TO 17,  ScsbNatureTypeBasic1_AuditDateTime TO 17
